@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shane's Daily Briefing (Private)</title>
+    <link>https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749</link>
+    <language>en-us</language>
+    <description>A private daily news briefing: AI/Anthropic, world news, Ireland, Central Oregon, and sports (Man Utd, Seahawks). Not intended for public distribution.</description>
+    <itunes:author>sgalligan</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News" />
+    <atom:link href="https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Friday, September 18, 2026</title>
+      <description>AI/Anthropic news (biology lab, data center deals), US-Iran tensions, Russia elections, Ireland headlines, Central Oregon wildfire relief, and Manchester United.</description>
+      <pubDate>Fri, 18 Sep 2026 15:55:00 -0700</pubDate>
+      <enclosure url="https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/episodes/2026-09-18.mp3" length="1351870" type="audio/mpeg" />
+      <guid isPermaLink="false">https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/episodes/2026-09-18.mp3</guid>
+      <itunes:duration>00:03:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
