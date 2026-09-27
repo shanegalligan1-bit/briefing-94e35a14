@@ -1,11 +1,20 @@
 [
   {
     "date": "2026-09-18",
-    "title": "Daily Briefing — Friday, September 18, 2026",
+    "title": "Daily Briefing \u2014 Friday, September 18, 2026",
     "description": "AI/Anthropic news (biology lab, data center deals), US-Iran tensions, Russia elections, Ireland headlines, Central Oregon wildfire relief, and Manchester United.",
     "filename": "2026-09-18.mp3",
     "size_bytes": 1351870,
     "duration": "00:03:10",
     "pubDate": "Fri, 18 Sep 2026 15:55:00 -0700"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Daily Briefing \u2014 Wednesday, September 23, 2026",
+    "description": "Anthropic and Sam Altman both call to slow down frontier AI, plus the first AI-coordinated cyberattack; Salesforce hosted MCP pricing; Trump at the UN amid press-ban fallout and Yemen escalation; Ireland's youth exodus survey; Bend food costs and local weather; Man Utd's derby VAR fallout and Drew Lock's strong Seahawks start.",
+    "filename": "2026-09-23.mp3",
+    "size_bytes": 2145318,
+    "duration": "00:04:58",
+    "pubDate": "Wed, 23 Sep 2026 06:00:00 -0700"
   }
 ]
