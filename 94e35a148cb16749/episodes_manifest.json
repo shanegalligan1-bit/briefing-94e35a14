@@ -6,7 +6,8 @@
     "filename": "2026-09-18.mp3",
     "size_bytes": 1351870,
     "duration": "00:03:10",
-    "pubDate": "Fri, 18 Sep 2026 15:55:00 -0700"
+    "pubDate": "Fri, 18 Sep 2026 15:55:00 -0700",
+    "voice": "espeak-ng"
   },
   {
     "date": "2026-09-23",
@@ -15,7 +16,8 @@
     "filename": "2026-09-23.mp3",
     "size_bytes": 2145318,
     "duration": "00:04:58",
-    "pubDate": "Wed, 23 Sep 2026 06:00:00 -0700"
+    "pubDate": "Wed, 23 Sep 2026 06:00:00 -0700",
+    "voice": "espeak-ng"
   },
   {
     "date": "2026-09-27",
@@ -24,6 +26,7 @@
     "filename": "2026-09-27.mp3",
     "size_bytes": 5576455,
     "duration": "05:48",
-    "pubDate": "Sun, 27 Sep 2026 06:00:00 -0700"
+    "pubDate": "Sun, 27 Sep 2026 06:00:00 -0700",
+    "voice": "espeak-ng"
   }
 ]
