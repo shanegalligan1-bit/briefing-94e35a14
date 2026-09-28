@@ -28,5 +28,15 @@
     "duration": "04:39",
     "pubDate": "Sun, 27 Sep 2026 09:19:48 -0700",
     "voice": "ava"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "Daily Briefing — Monday, September 28, 2026",
+    "description": "Anthropic's continued safety/verification push alongside its enzyme-discovery story; Salesforce's new Agentforce Help Agent and Commerce release; the UN General Assembly and Germany's political shift; Northern Ireland's Garvaghy Road parade standoff and Ireland's budget fights; Central Oregon's Sisters Folk Festival and COCC strike threat; Bend's warm, dry week ahead; Man Utd's quiet build-up to facing Tottenham; and the Seahawks' 12-game winning streak snapped by the Commanders.",
+    "filename": "2026-09-28.mp3",
+    "size_bytes": 5703515,
+    "duration": "05:56",
+    "pubDate": "Mon, 28 Sep 2026 06:00:00 -0700",
+    "voice": "espeak-ng"
   }
 ]

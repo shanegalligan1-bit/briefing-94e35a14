@@ -10,6 +10,15 @@
     <itunes:category text="News" />
     <atom:link href="https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Daily Briefing — Monday, September 28, 2026</title>
+      <description>Anthropic's continued safety/verification push alongside its enzyme-discovery story; Salesforce's new Agentforce Help Agent and Commerce release; the UN General Assembly and Germany's political shift; Northern Ireland's Garvaghy Road parade standoff and Ireland's budget fights; Central Oregon's Sisters Folk Festival and COCC strike threat; Bend's warm, dry week ahead; Man Utd's quiet build-up to facing Tottenham; and the Seahawks' 12-game winning streak snapped by the Commanders.</description>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 -0700</pubDate>
+      <enclosure url="https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/episodes/2026-09-28.mp3" length="5703515" type="audio/mpeg" />
+      <guid isPermaLink="false">https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/episodes/2026-09-28.mp3</guid>
+      <itunes:duration>05:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing — Sunday, September 27, 2026</title>
       <description>Claude's enzyme-system discovery and Anthropic's new safety/verification push; Salesforce's Agentforce Operations and record Q1 FY27 results; Russia-Ukraine peace talks stalling and a US-China AI safety channel; Ireland's presidential election; Bend drought and weather; Man Utd's draw at Fulham and Gary Neville's criticism; Seahawks' hot start behind Jaxon Smith-Njigba.</description>
       <pubDate>Sun, 27 Sep 2026 09:19:48 -0700</pubDate>
