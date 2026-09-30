@@ -10,6 +10,15 @@
     <itunes:category text="News" />
     <atom:link href="https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Daily Briefing — Wednesday, September 30, 2026</title>
+      <description>Anthropic's Claude-assisted enzyme discovery, its Accenture partnership, and new Life Sciences Verification Program; Salesforce's record Q1 FY27 results and new Agentforce Operations push; the end of the 43-day US government shutdown and Ukraine drone-defense tech; Ireland's power outages and public sector strike; Central Oregon wildfire insurance protections and Pacific Power Foundation grants; a warm, dry stretch of Bend weather; Man Utd's mixed run of results; and the Seahawks' loss to the Commanders.</description>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 -0700</pubDate>
+      <enclosure url="https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/episodes/2026-09-30.mp3" length="5222862" type="audio/mpeg" />
+      <guid isPermaLink="false">https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/episodes/2026-09-30.mp3</guid>
+      <itunes:duration>05:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing — Tuesday, September 29, 2026</title>
       <description>Anthropic ships Claude Sonnet 5.5 and touts an enzyme-system discovery and an Ebola-response assist; Salesforce unveils AIforce and its Claudeforce integration with Anthropic's Claude; Pope Leo's France visit and a deadly Russian strike on Kyiv; Ireland's Budget 2027 fights over minimum wage and carer's allowance; Bend's Tactics Board Shop closes and Habitat breaks ground at Stone Creek Commons; a dry, mild week of Bend weather; Man Utd's build-up to hosting Tottenham; and the Seahawks regroup after their win streak ends against the Commanders.</description>
       <pubDate>Tue, 29 Sep 2026 06:00:00 -0700</pubDate>

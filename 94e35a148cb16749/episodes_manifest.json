@@ -48,5 +48,15 @@
     "duration": "06:15",
     "pubDate": "Tue, 29 Sep 2026 06:00:00 -0700",
     "voice": "espeak-ng"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Daily Briefing — Wednesday, September 30, 2026",
+    "description": "Anthropic's Claude-assisted enzyme discovery, its Accenture partnership, and new Life Sciences Verification Program; Salesforce's record Q1 FY27 results and new Agentforce Operations push; the end of the 43-day US government shutdown and Ukraine drone-defense tech; Ireland's power outages and public sector strike; Central Oregon wildfire insurance protections and Pacific Power Foundation grants; a warm, dry stretch of Bend weather; Man Utd's mixed run of results; and the Seahawks' loss to the Commanders.",
+    "filename": "2026-09-30.mp3",
+    "size_bytes": 5222862,
+    "duration": "05:26",
+    "pubDate": "Wed, 30 Sep 2026 06:00:00 -0700",
+    "voice": "espeak-ng"
   }
 ]
