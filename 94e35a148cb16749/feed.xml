@@ -10,6 +10,15 @@
     <itunes:category text="News" />
     <atom:link href="https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Daily Briefing — Thursday, October 1, 2026</title>
+      <description>Barclays scales Claude as Anthropic ships Sonnet 5.5 and Opus 5.5; Salesforce's TSA agent, Koa reasoning model, and Benioff's AIforce reveal; last US troops leave Iraq and Gaza ceasefire violations continue; Ireland's PRSI hike and Drumcree standoff; Bend's new art facility, a Redmond veterans exhibit, and a warm weekend ahead; Man Utd's January transfer plans; Seahawks prep for the Chargers.</description>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 -0700</pubDate>
+      <enclosure url="https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/episodes/2026-10-01.mp3" length="5755342" type="audio/mpeg" />
+      <guid isPermaLink="false">https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/episodes/2026-10-01.mp3</guid>
+      <itunes:duration>05:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing — Wednesday, September 30, 2026</title>
       <description>Anthropic's Claude-assisted enzyme discovery, its Accenture partnership, and new Life Sciences Verification Program; Salesforce's record Q1 FY27 results and new Agentforce Operations push; the end of the 43-day US government shutdown and Ukraine drone-defense tech; Ireland's power outages and public sector strike; Central Oregon wildfire insurance protections and Pacific Power Foundation grants; a warm, dry stretch of Bend weather; Man Utd's mixed run of results; and the Seahawks' loss to the Commanders.</description>
       <pubDate>Wed, 30 Sep 2026 06:00:00 -0700</pubDate>
