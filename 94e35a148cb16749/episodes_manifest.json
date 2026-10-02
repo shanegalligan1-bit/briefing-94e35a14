@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-09-18",
-    "title": "Daily Briefing \u2014 Friday, September 18, 2026",
+    "title": "Daily Briefing — Friday, September 18, 2026",
     "description": "AI/Anthropic news (biology lab, data center deals), US-Iran tensions, Russia elections, Ireland headlines, Central Oregon wildfire relief, and Manchester United.",
     "filename": "2026-09-18.mp3",
     "size_bytes": 1351870,
@@ -11,7 +11,7 @@
   },
   {
     "date": "2026-09-23",
-    "title": "Daily Briefing \u2014 Wednesday, September 23, 2026",
+    "title": "Daily Briefing — Wednesday, September 23, 2026",
     "description": "Anthropic and Sam Altman both call to slow down frontier AI, plus the first AI-coordinated cyberattack; Salesforce hosted MCP pricing; Trump at the UN amid press-ban fallout and Yemen escalation; Ireland's youth exodus survey; Bend food costs and local weather; Man Utd's derby VAR fallout and Drew Lock's strong Seahawks start.",
     "filename": "2026-09-23.mp3",
     "size_bytes": 2145318,
@@ -21,7 +21,7 @@
   },
   {
     "date": "2026-09-27",
-    "title": "Daily Briefing \u2014 Sunday, September 27, 2026",
+    "title": "Daily Briefing — Sunday, September 27, 2026",
     "description": "Claude's enzyme-system discovery and Anthropic's new safety/verification push; Salesforce's Agentforce Operations and record Q1 FY27 results; Russia-Ukraine peace talks stalling and a US-China AI safety channel; Ireland's presidential election; Bend drought and weather; Man Utd's draw at Fulham and Gary Neville's criticism; Seahawks' hot start behind Jaxon Smith-Njigba.",
     "filename": "2026-09-27-v2.mp3",
     "size_bytes": 4467608,
@@ -31,7 +31,7 @@
   },
   {
     "date": "2026-09-28",
-    "title": "Daily Briefing \u2014 Monday, September 28, 2026",
+    "title": "Daily Briefing — Monday, September 28, 2026",
     "description": "Anthropic's continued safety/verification push alongside its enzyme-discovery story; Salesforce's new Agentforce Help Agent and Commerce release; the UN General Assembly and Germany's political shift; Northern Ireland's Garvaghy Road parade standoff and Ireland's budget fights; Central Oregon's Sisters Folk Festival and COCC strike threat; Bend's warm, dry week ahead; Man Utd's quiet build-up to facing Tottenham; and the Seahawks' 12-game winning streak snapped by the Commanders.",
     "filename": "2026-09-28.mp3",
     "size_bytes": 5703515,
@@ -41,7 +41,7 @@
   },
   {
     "date": "2026-09-29",
-    "title": "Daily Briefing \u2014 Tuesday, September 29, 2026",
+    "title": "Daily Briefing — Tuesday, September 29, 2026",
     "description": "Anthropic ships Claude Sonnet 5.5 and touts an enzyme-system discovery and an Ebola-response assist; Salesforce unveils AIforce and its Claudeforce integration with Anthropic's Claude; Pope Leo's France visit and a deadly Russian strike on Kyiv; Ireland's Budget 2027 fights over minimum wage and carer's allowance; Bend's Tactics Board Shop closes and Habitat breaks ground at Stone Creek Commons; a dry, mild week of Bend weather; Man Utd's build-up to hosting Tottenham; and the Seahawks regroup after their win streak ends against the Commanders.",
     "filename": "2026-09-29.mp3",
     "size_bytes": 6007789,
@@ -51,7 +51,7 @@
   },
   {
     "date": "2026-09-30",
-    "title": "Daily Briefing \u2014 Wednesday, September 30, 2026",
+    "title": "Daily Briefing — Wednesday, September 30, 2026",
     "description": "Anthropic's Claude-assisted enzyme discovery, its Accenture partnership, and new Life Sciences Verification Program; Salesforce's record Q1 FY27 results and new Agentforce Operations push; the end of the 43-day US government shutdown and Ukraine drone-defense tech; Ireland's power outages and public sector strike; Central Oregon wildfire insurance protections and Pacific Power Foundation grants; a warm, dry stretch of Bend weather; Man Utd's mixed run of results; and the Seahawks' loss to the Commanders.",
     "filename": "2026-09-30.mp3",
     "size_bytes": 5222862,
@@ -61,12 +61,22 @@
   },
   {
     "date": "2026-10-01",
-    "title": "Daily Briefing \u2014 Thursday, October 1, 2026",
+    "title": "Daily Briefing — Thursday, October 1, 2026",
     "description": "Barclays scales Claude as Anthropic ships Sonnet 5.5 and Opus 5.5; Salesforce's TSA agent, Koa reasoning model, and Benioff's AIforce reveal; last US troops leave Iraq and Gaza ceasefire violations continue; Ireland's PRSI hike and Drumcree standoff; Bend's new art facility, a Redmond veterans exhibit, and a warm weekend ahead; Man Utd's January transfer plans; Seahawks prep for the Chargers.",
     "filename": "2026-10-01.mp3",
     "size_bytes": 5755342,
     "duration": "05:59",
     "pubDate": "Thu, 01 Oct 2026 06:00:00 -0700",
+    "voice": "espeak-ng"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Daily Briefing — Friday, October 2, 2026",
+    "description": "Anthropic's IPO push toward a November ninth launch and its safety disclosures on self-preserving AI behavior; Salesforce's seven new job-specific Agentforce agents and long-horizon runtime; the fraught one-year mark on the Gaza ceasefire; Ireland's planned October fourteenth health worker strike and Budget 2027 tax changes; Deschutes County's clerk race and hazardous waste collection days; an unusually warm, dry stretch of Bend weather; Man Utd's draw at Fulham ahead of hosting Tottenham; and the Seahawks hosting the winless Chargers.",
+    "filename": "2026-10-02.mp3",
+    "size_bytes": 5632879,
+    "duration": "05:52",
+    "pubDate": "Fri, 02 Oct 2026 06:00:00 -0700",
     "voice": "espeak-ng"
   }
 ]

@@ -10,6 +10,15 @@
     <itunes:category text="News" />
     <atom:link href="https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Daily Briefing — Friday, October 2, 2026</title>
+      <description>Anthropic's IPO push toward a November ninth launch and its safety disclosures on self-preserving AI behavior; Salesforce's seven new job-specific Agentforce agents and long-horizon runtime; the fraught one-year mark on the Gaza ceasefire; Ireland's planned October fourteenth health worker strike and Budget 2027 tax changes; Deschutes County's clerk race and hazardous waste collection days; an unusually warm, dry stretch of Bend weather; Man Utd's draw at Fulham ahead of hosting Tottenham; and the Seahawks hosting the winless Chargers.</description>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 -0700</pubDate>
+      <enclosure url="https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/episodes/2026-10-02.mp3" length="5632879" type="audio/mpeg" />
+      <guid isPermaLink="false">https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/episodes/2026-10-02.mp3</guid>
+      <itunes:duration>05:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing — Thursday, October 1, 2026</title>
       <description>Barclays scales Claude as Anthropic ships Sonnet 5.5 and Opus 5.5; Salesforce's TSA agent, Koa reasoning model, and Benioff's AIforce reveal; last US troops leave Iraq and Gaza ceasefire violations continue; Ireland's PRSI hike and Drumcree standoff; Bend's new art facility, a Redmond veterans exhibit, and a warm weekend ahead; Man Utd's January transfer plans; Seahawks prep for the Chargers.</description>
       <pubDate>Thu, 01 Oct 2026 06:00:00 -0700</pubDate>
