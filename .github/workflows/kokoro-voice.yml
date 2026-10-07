@@ -1,0 +1,93 @@
+name: Kokoro voice upgrade
+
+# Triggered when the daily cloud task pushes a new script (pipeline/scripts/<date>.txt).
+# Re-voices that episode with Kokoro and replaces the espeak-ng mp3 in place.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "pipeline/scripts/*.txt"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Episode date to re-render (YYYY-MM-DD)"
+        required: true
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: kokoro-voice
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Find new episode scripts
+        id: files
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            files="pipeline/scripts/${{ github.event.inputs.date }}.txt"
+          else
+            before="${{ github.event.before }}"
+            if git cat-file -e "$before^{commit}" 2>/dev/null; then
+              files=$(git diff --name-only --diff-filter=AM "$before" HEAD -- 'pipeline/scripts/*.txt' | tr '\n' ' ')
+            else
+              files=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'pipeline/scripts/*.txt' | tr '\n' ' ')
+            fi
+          fi
+          echo "list=$files" >> "$GITHUB_OUTPUT"
+          echo "Scripts: $files"
+
+      - uses: actions/setup-python@v5
+        if: steps.files.outputs.list != ''
+        with:
+          python-version: "3.11"
+
+      - name: System packages
+        if: steps.files.outputs.list != ''
+        run: sudo apt-get update -q && sudo apt-get install -y -q espeak-ng ffmpeg
+
+      - name: Cache pip + Kokoro model
+        if: steps.files.outputs.list != ''
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.cache/huggingface
+          key: kokoro-v1-${{ runner.os }}
+
+      - name: Install Kokoro (CPU)
+        if: steps.files.outputs.list != ''
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install "kokoro>=0.9.4" soundfile numpy
+
+      - name: Render
+        if: steps.files.outputs.list != ''
+        env:
+          KOKORO_VOICE: af_heart
+        run: python tools/kokoro_render.py ${{ steps.files.outputs.list }}
+
+      - name: Commit upgraded audio
+        if: steps.files.outputs.list != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "kokoro-bot"
+          git config user.email "kokoro-bot@users.noreply.github.com"
+          git add -A 94e35a148cb16749
+          git diff --cached --quiet && { echo "Nothing changed"; exit 0; }
+          git commit -m "Kokoro voice: ${{ steps.files.outputs.list }}"
+          ok=0
+          for i in 1 2 3; do git pull --rebase -q origin main && git push origin HEAD:main && ok=1 && break; sleep 5; done
+          [ "$ok" = 1 ] || exit 1
+          # Make sure GitHub Pages rebuilds (pushes made with the Actions token may not trigger it).
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" >/dev/null 2>&1 || true
