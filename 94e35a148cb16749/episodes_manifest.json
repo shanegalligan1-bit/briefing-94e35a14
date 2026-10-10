@@ -128,5 +128,15 @@
     "duration": "04:11",
     "pubDate": "Fri, 09 Oct 2026 06:00:00 -0700",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Daily Briefing — Saturday, October 10, 2026",
+    "description": "Anthropic reportedly plans to begin marketing its IPO in mid-October ahead of the U.S. midterms, with a $15 billion credit facility and valuation chatter near $2 trillion; Salesforce unveils AIforce, bringing Claudeforce, Slackforce, and Agentforce Coworker to any AI interface; Israel recovers the last Gaza hostage's remains, clearing the way for ceasefire phase two; Ireland's Dail scrambles over sitting days as a public-sector strike looms next Wednesday; a Central Oregon freeze warning gives way to milder weather, plus a Search and Rescue donation and COCC's Indigenous Peoples' Day events; Man Utd host struggling Tottenham at Old Trafford; and the Seahawks, fresh off beating the Chargers, get a week off before Denver.",
+    "filename": "2026-10-10.mp3",
+    "size_bytes": 5102489,
+    "duration": "05:19",
+    "pubDate": "Sat, 10 Oct 2026 06:00:00 -0700",
+    "voice": "espeak-ng"
   }
 ]
