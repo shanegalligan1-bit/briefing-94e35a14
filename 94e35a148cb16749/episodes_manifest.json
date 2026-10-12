@@ -148,5 +148,15 @@
     "duration": "05:04",
     "pubDate": "Sun, 11 Oct 2026 06:00:00 -0700",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "Daily Briefing — Monday, October 12, 2026",
+    "description": "An Anthropic model's false homicide tip to Philadelphia police follows its tightened usage policy, plus free-year startup credits; Salesforce's Benioff talks a billion AI agents and the $3.6B Fin acquisition post-Dreamforce; a DOJ antitrust probe into TV networks and Trump's Ukraine leadership comments amid Hurricane Isaias; Ireland's Teachers' Union joins Wednesday's public-sector strike buildup; Deschutes County's new K-9 team's first arrest and Operation School Bell in Bend; milder Bend weather after a freeze warning; Man Utd's Carrick under pressure after the Tottenham draw with Baleba back from injury; and the Seahawks' 32-29 loss to the 49ers ahead of the Bengals.",
+    "filename": "2026-10-12.mp3",
+    "size_bytes": 4997582,
+    "duration": "05:12",
+    "pubDate": "Mon, 12 Oct 2026 06:00:00 -0700",
+    "voice": "espeak-ng"
   }
 ]
