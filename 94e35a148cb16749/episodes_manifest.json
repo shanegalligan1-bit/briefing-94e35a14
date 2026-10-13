@@ -158,5 +158,15 @@
     "duration": "04:17",
     "pubDate": "Mon, 12 Oct 2026 06:00:00 -0700",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Daily Briefing — Tuesday, October 13, 2026",
+    "description": "Anthropic expands its Claude Startups credits program while tightening internal testing after a prompt-injection scare; Salesforce broadens Agentforce with new specialized agents and a pay-per-resolution Help Agent; DOJ antitrust scrutiny of TV networks and Gaza ceasefire's next phase amid continued Ukraine coordination; Ireland braces for Wednesday's nationwide public-sector strike as courts and the Dail scramble; BendFilm Festival crowns \"Hot Water\" and \"The Lake\" while Deschutes County races a landfill-site deadline; a frosty, sunny, below-normal week ahead in Bend; Man Utd's Carrick under mounting pressure ahead of a tough trip to Chelsea; and the Seahawks regroup after a 32-29 loss to the 49ers ahead of the Bengals.",
+    "filename": "2026-10-13.mp3",
+    "size_bytes": 5214502,
+    "duration": "05:26",
+    "pubDate": "Tue, 13 Oct 2026 06:00:00 -0700",
+    "voice": "espeak-ng"
   }
 ]
