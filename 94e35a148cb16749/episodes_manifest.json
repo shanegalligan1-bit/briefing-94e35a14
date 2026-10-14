@@ -168,5 +168,15 @@
     "duration": "04:32",
     "pubDate": "Tue, 13 Oct 2026 06:00:00 -0700",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Daily Briefing — Wednesday, October 14, 2026",
+    "description": "Anthropic launches Claude Dashboards and Claude Motion in beta amid continued IPO chatter; Salesforce pushes its \"job-ready\" Agentforce agent lineup (Casey, Paige, Carter, Piper, Marshall, Hunter) and pay-per-resolution Help Agent; DOJ's antitrust probe into TV networks over White House pool coverage and \"positive signs\" for Gaza ceasefire phase two talks; Ireland's nationwide public-sector strike shuts schools as a Dun Laoghaire murder arrest and a fatal Waterford house fire also make headlines; Deschutes County trims its 2027 budget and the Commission Position 5 race heats up ahead of Election Day; a mild, mostly sunny Bend day; Man Utd's Champions League loss to Atletico Madrid and Lisandro Martinez's pointed criticism of the club's hierarchy; and the Seahawks regroup after a 32-29 loss to the 49ers ahead of a short week at Denver.",
+    "filename": "2026-10-14.mp3",
+    "size_bytes": 5908733,
+    "duration": "06:09",
+    "pubDate": "Wed, 14 Oct 2026 06:00:00 -0700",
+    "voice": "espeak-ng"
   }
 ]
