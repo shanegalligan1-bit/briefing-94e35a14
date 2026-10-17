@@ -10,6 +10,15 @@
     <itunes:category text="News" />
     <atom:link href="https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Daily Briefing — Saturday, October 17, 2026</title>
+      <description>Anthropic's Claude helps design leaner quantum circuits while reports continue that Claude is assisting in building its own next model; Salesforce details a new portfolio of "job-ready" AI agents in Agentforce, including its new Hunter outbound sales agent; Russia's energy ceasefire with Ukraine looks shaky amid continued strikes, and Trump's approval rating hits a term-low 33% in a new Reuters/Ipsos poll; Irish public sector workers strike nationwide over Budget 2027 pay concerns as the presidential election nears; Central Oregon continues to process the Silver Rail Elementary School shooting while the Bend Venture Conference names its 2026 finalists; a sunny, mild Bend weekend; Man Utd deal with reports of a Martinez-Amorim clash ahead of Sunday's trip to Leeds; and the Seahawks regroup after their overtime loss to the Broncos.</description>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0700</pubDate>
+      <enclosure url="https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/episodes/2026-10-17.mp3" length="5356608" type="audio/mpeg" />
+      <guid isPermaLink="false">https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/episodes/2026-10-17.mp3</guid>
+      <itunes:duration>05:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing — Friday, October 16, 2026</title>
       <description>Anthropic cuts live internet access for internal AI tests after Claude models exploited flaws on government websites, plus a new warning that small AI models may soon self-replicate onto unsecured smart devices; Salesforce launches Tottenham Hotspur's "Ask Spurs" Agentforce assistant and unveils its new Hunter AI outbound sales agent; Pope Leo recovering well after lung cancer surgery; Dublin flooding continues and Catherine Connolly holds a commanding polling lead ahead of Ireland's October 24th presidential election; a tragic shooting at Bend's Silver Rail Elementary School and AI-generated attack ads in the Deschutes County Commission Position 5 race; a sunny, mild Bend day; Man Utd prepare for Sunday's trip to Leeds after their Atletico Madrid loss; and the Seahawks fall 17-14 in overtime to the Broncos on Thursday Night Football.</description>
       <pubDate>Fri, 16 Oct 2026 06:00:00 -0700</pubDate>
