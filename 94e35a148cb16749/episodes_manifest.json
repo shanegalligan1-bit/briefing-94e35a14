@@ -238,5 +238,15 @@
     "duration": "05:06",
     "pubDate": "Tue, 20 Oct 2026 06:00:00 -0700",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "Daily Briefing — Wednesday, October 21, 2026",
+    "description": "Anthropic commits five percent of its shares to a new public benefit fund as speculation builds over an imminent Claude Fable 5.5; Salesforce launches its Hunter outbound-sales Agentforce agent and deepens its Docusign partnership; Witkoff and Kushner carry an updated peace framework to Moscow after constructive Oslo talks, clouded by Starlink-restriction allegations; Ireland braces for Storm Austen's rain warnings; most Bend-La Pine schools reopen this week while Silver Rail Elementary stays closed; a milder, showery stretch ahead in Bend before a sharp Friday cooldown; Man Utd head to Como in the Champions League after a winless run under Michael Carrick; and the Seahawks regroup at 3-3 before hosting the Chiefs.",
+    "filename": "2026-10-21.mp3",
+    "size_bytes": 5418884,
+    "duration": "05:39",
+    "pubDate": "Wed, 21 Oct 2026 06:00:00 -0700",
+    "voice": "espeak-ng"
   }
 ]
