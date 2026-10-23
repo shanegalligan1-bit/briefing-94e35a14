@@ -258,5 +258,15 @@
     "duration": "04:06",
     "pubDate": "Thu, 22 Oct 2026 06:00:00 -0700",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Daily Briefing — Friday, October 23, 2026",
+    "description": "Anthropic unveils Claude Duet, a proactive AI agent for professionals built on Opus 5.5; Salesforce rolls out a lineup of \"job-ready\" Agentforce agents including a long-horizon sales agent named Hunter; Witkoff and Kushner meet Putin in St. Petersburg as the Kremlin signals three-way Ukraine talks by November; Ireland's Dail votes 79-71 to scrap the triple lock amid a fiery Martin-McDonald clash; Silver Rail Elementary stays closed through next week as Bend-La Pine schools adjust security; a cold, frosty Friday gives way to a milder Bend weekend; Man Utd's Carrick clings to his job ahead of facing Bournemouth; and the Seahawks, at 3-3, host the unbeaten Chiefs on Sunday night.",
+    "filename": "2026-10-23.mp3",
+    "size_bytes": 5994832,
+    "duration": "06:14",
+    "pubDate": "Fri, 23 Oct 2026 06:00:00 -0700",
+    "voice": "espeak-ng"
   }
 ]
