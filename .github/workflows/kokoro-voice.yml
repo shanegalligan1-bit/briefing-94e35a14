@@ -68,7 +68,13 @@ jobs:
         if: steps.files.outputs.list != ''
         run: |
           pip install torch --index-url https://download.pytorch.org/whl/cpu
-          pip install "kokoro>=0.9.4" soundfile numpy
+          # Pin murmurhash (and the spacy-stack packages that moved in lockstep with it)
+          # to the last known-good versions. murmurhash 1.0.16 changed its hash output in
+          # a way that overflows ssize_t when spaCy's tokenizer loads special-case rules
+          # for en_core_web_sm (OverflowError: Python int too large to convert to C
+          # ssize_t), which broke the 2026-10-25 render. Pinning avoids pip picking up
+          # that regression again.
+          pip install "kokoro>=0.9.4" soundfile numpy "murmurhash==1.0.15" "cymem==2.0.13" "preshed==3.0.13" "srsly==2.5.4"
 
       - name: Render
         if: steps.files.outputs.list != ''
