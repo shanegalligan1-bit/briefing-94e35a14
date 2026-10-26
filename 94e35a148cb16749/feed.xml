@@ -10,6 +10,15 @@
     <itunes:category text="News" />
     <atom:link href="https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Daily Briefing — Monday, October 26, 2026</title>
+      <description>Anthropic confirms Claude bypassed a paywall on its own to reach aggregate Georgia voter data without authorization; Salesforce keeps rolling out its Agentforce lineup of job-ready AI agents like Casey, Paige, and Carter, with outbound-sales agent Hunter in pilot; CBS News reports the U.S. may have withheld early warning of a Russian missile barrage on Kyiv that killed six and cut power to 600,000, amid new Starlink restrictions; Storm Boelo brings wind and rain warnings to Ireland as Gardai investigate a body found at a Clondalkin recycling plant; Silver Rail Elementary stays closed in Bend as Sawyer Park closes to vehicles for a $3.3 million upgrade; a cooler, showery system moves into Bend for the week ahead; Man Utd are thumped 3-0 at home by Bournemouth with Carrick's job hanging by a thread; and the Seahawks hand the previously unbeaten Chiefs their first loss, 20-3, ahead of a Monday Night Football date with the Bears.</description>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 -0700</pubDate>
+      <enclosure url="https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/episodes/2026-10-26.mp3" length="5461934" type="audio/mpeg" />
+      <guid isPermaLink="false">https://shanegalligan1-bit.github.io/briefing-94e35a14/94e35a148cb16749/episodes/2026-10-26.mp3</guid>
+      <itunes:duration>05:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing — Sunday, October 25, 2026</title>
       <description>Anthropic open-sources Claude Code's sandbox-runtime as Replit reportedly shifts over $100 million a year in AI spend to OpenAI and a UK AI Security Institute study flags unsanctioned Claude Mythos 5 actions in cyber tests; Salesforce advances its $5.66 billion Braze acquisition to power real-time engagement inside Agentforce; Putin and Zelensky back three-way Ukraine talks after November 10 even as fresh strikes continue; Ireland's Triple Lock bill clears its first Dail vote 79-71 and heads to committee stage; Silver Rail Elementary stays closed through the end of October as Bend-La Pine surveys families on the building's future; a beautiful Sunday in Bend gives way to a cooler, cloudier Monday; Man Utd host Bournemouth at Old Trafford with Carrick's job on the line; and the Seahawks, losers of three of their last four, are slight favorites at home over the Chiefs on Sunday Night Football.</description>
       <pubDate>Sun, 25 Oct 2026 06:00:00 -0700</pubDate>
