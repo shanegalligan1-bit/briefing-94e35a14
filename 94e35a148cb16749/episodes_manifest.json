@@ -328,5 +328,15 @@
     "duration": "04:35",
     "pubDate": "Thu, 29 Oct 2026 06:00:00 -0700",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Daily Briefing — Friday, October 30, 2026",
+    "description": "SpaceX's Q3 filing reportedly names Anthropic as its biggest customer at thirty-four-and-a-half percent of revenue, ahead of the U.S. government, as Anthropic expands a 40% GSA discount and faces a Nov. 3 Senate deadline and FTC scrutiny over its IPO filing; Salesforce's latest results show Agentforce and Data Cloud ARR nearing $1.4B as Agentforce tops $500M; the Kremlin says battlefield developments will determine the timing of three-way US-Russia-Ukraine talks possibly in Abu Dhabi after Nov. 4; Taoiseach Micheál Martin unveils a new body to study Irish unity and alternatives for the first time, as Stormont's DUP blocks Michelle O'Neill from a Glasgow forum amid Drumcree fallout; Central Oregon counts down to Election Day amid a contentious sheriff's race; a chilly, showery Halloween is ahead in Bend with Daylight Saving ending Sunday; Man Utd's Carrick leads United to Stamford Bridge to face Chelsea; and the Seahawks, fresh off upsetting the Chiefs 20-3, prep to host the 5-2 Bears on Monday Night Football.",
+    "filename": "2026-10-30.mp3",
+    "size_bytes": 6074662,
+    "duration": "06:20",
+    "pubDate": "Fri, 30 Oct 2026 06:00:00 -0700",
+    "voice": "espeak-ng"
   }
 ]
