@@ -338,5 +338,15 @@
     "duration": "05:12",
     "pubDate": "Fri, 30 Oct 2026 06:00:00 -0700",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Daily Briefing — Saturday, October 31, 2026",
+    "description": "Anthropic and Carahsoft expand Claude access across U.S. government via a new GSA OneGov agreement with a 40% discount through 2029, even as Wall Street wobbles on AI valuation jitters; Salesforce rolls out a lineup of \"job-ready\" Agentforce agents including an outbound-sales agent, Hunter, headed to general availability in November; Zelensky now expects trilateral Abu Dhabi peace talks with Russia and the U.S. in mid-November as Netanyahu's party claims an Israeli election win and clocks fall back for daylight saving; Taoiseach Micheál Martin insists Ireland has no intention of joining NATO amid the Triple Lock reform debate; Central Oregon counts down to Election Day with the Deschutes sheriff's race in focus; a frosty, partly sunny Halloween in Bend turns chilly and cloudy by trick-or-treating time; Man Utd's Michael Carrick and Chelsea's Xabi Alonso both face pressure at Stamford Bridge; and the Seahawks, fresh off upsetting the Chiefs, carry a lengthy injury report into Monday night's home game against the 5-2 Bears.",
+    "filename": "2026-10-31.mp3",
+    "size_bytes": 5845203,
+    "duration": "06:05",
+    "pubDate": "Sat, 31 Oct 2026 06:00:00 -0700",
+    "voice": "espeak-ng"
   }
 ]
