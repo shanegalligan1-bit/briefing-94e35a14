@@ -368,5 +368,15 @@
     "duration": "04:51",
     "pubDate": "Mon, 02 Nov 2026 06:00:00 -0800",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Daily Briefing — Tuesday, November 3, 2026",
+    "description": "Anthropic quietly blocks Claude Code from recreating existing video games and buys one-person biotech Mithril Medicine as its healthcare push continues ahead of a Nasdaq IPO; Salesforce rolls out a named lineup of \"job-ready\" Agentforce agents with a new long-horizon runtime; it's US Election Day with Democrats leading national polls and tight Senate races in Texas, Ohio, Michigan, Kansas, and Georgia; Ireland holds the funeral of European champion runner Ciara Mageean, who died of bowel cancer at thirty-four, as Met Éireann issues a fog warning for eight counties; Central Oregon also votes today with the Kotek-Drazan governor's race on a knife's edge; a cloudy, cold Tuesday in Bend gives way to a brighter Wednesday; Michael Carrick clings to his Man Utd job ahead of Aston Villa; and the Seahawks fall 34-17 to the Bears on Monday Night Football.",
+    "filename": "2026-11-03.mp3",
+    "size_bytes": 5952618,
+    "duration": "06:12",
+    "pubDate": "Tue, 03 Nov 2026 06:00:00 -0800",
+    "voice": "espeak-ng"
   }
 ]
