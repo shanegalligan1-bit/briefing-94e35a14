@@ -418,5 +418,15 @@
     "duration": "04:33",
     "pubDate": "Sun, 08 Nov 2026 06:00:00 -0800",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-11-09",
+    "title": "Daily Briefing — Monday, November 9, 2026",
+    "description": "Anthropic officially files its S-1 with the SEC for a proposed IPO and expands its GSA partnership to bring Claude, with a forty percent discount, to every level of government, while donating the Agent Skills standard to the new Agentic AI Foundation; Salesforce says Agentforce Coworker usage has soared twenty-one times over in three months past one hundred eighty-five thousand users and launches a new Koa Decisions product; Democrats weigh how to use their midterm sweep of Congress against Trump as U.S. strikes in the Strait of Hormuz and the Maduro situation keep Gulf tensions elevated; Irish public sector unions plan a second national strike for November twelfth timed to an EU summit in Dublin; Central Oregon digests the Democrat sweep of the Deschutes County commission as newly elected members prepare to take their seats; Bend sees light rain today with an above-normal pattern for the week; Patrick Dorgu rescues a late point as Manchester United and Aston Villa draw four-four; and the Seahawks beat the Cardinals seventeen-three to complete the season sweep.",
+    "filename": "2026-11-09.mp3",
+    "size_bytes": 5270509,
+    "duration": "05:29",
+    "pubDate": "Mon, 09 Nov 2026 06:00:00 -0800",
+    "voice": "espeak-ng"
   }
 ]
