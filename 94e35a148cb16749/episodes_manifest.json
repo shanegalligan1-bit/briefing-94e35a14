@@ -428,5 +428,15 @@
     "duration": "04:31",
     "pubDate": "Mon, 09 Nov 2026 06:00:00 -0800",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Daily Briefing — Tuesday, November 10, 2026",
+    "description": "Anthropic launches Claude Fable 5.2 and Mythos 5.2 while its AI for Science program and GSA government partnership keep expanding alongside its pending IPO; Salesforce's Agentforce Coworker usage grows 21x past 185,000 users with a new memory update and Koa Decisions; Congress returns to a funding fight as Democrats plan investigations and Trump backs Hegseth amid continued Strait of Hormuz tensions; Irish public sector unions lock in a second national strike for November 12th tied to an EU summit in Dublin; Central Oregon reacts to the Democratic sweep of the Deschutes County commission; Bend enjoys a dry, mild week before rain returns this weekend; Patrick Dorgu's late goal salvages a 4-4 draw for Man Utd against Aston Villa; and the Seahawks complete their season sweep of the Cardinals, 17-3.",
+    "filename": "2026-11-10.mp3",
+    "size_bytes": 4985043,
+    "duration": "05:12",
+    "pubDate": "Tue, 10 Nov 2026 06:00:00 -0800",
+    "voice": "espeak-ng"
   }
 ]
