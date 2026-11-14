@@ -468,5 +468,15 @@
     "duration": "04:37",
     "pubDate": "Fri, 13 Nov 2026 06:00:00 -0800",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "Daily Briefing — Saturday, November 14, 2026",
+    "description": "Anthropic prices its IPO at $70-78 a share for a roughly $1.4 trillion valuation and a November 19th Nasdaq debut under ticker ANT; Salesforce keeps expanding Agentforce past 185,000 Coworker users; Congress remains without a funding deal as an FAA ground stop snarls Friday travel and the House sidesteps a Hegseth impeachment vote; Zelensky says the US has floated NATO membership for Ukraine over a Donbas withdrawal while Eisenkot works to form an Israeli government; Ireland's Budget 2027 tax cuts roll out; Bend heads into a chilly, showery weekend before a midweek warm-up; Manchester United turns to new head coach Mauricio Pochettino ahead of facing Liverpool on November 22nd; and the Seahawks, 5-4, travel to face the Raiders in Las Vegas.",
+    "filename": "2026-11-14.mp3",
+    "size_bytes": 5097056,
+    "duration": "05:19",
+    "pubDate": "Sat, 14 Nov 2026 06:00:00 -0800",
+    "voice": "espeak-ng"
   }
 ]
