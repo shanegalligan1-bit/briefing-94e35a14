@@ -478,5 +478,15 @@
     "duration": "04:19",
     "pubDate": "Sat, 14 Nov 2026 06:00:00 -0800",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "Daily Briefing — Sunday, November 15, 2026",
+    "description": "Anthropic launches its IPO roadshow and unveils Claude Fable 5.2 and Mythos 5.2 ahead of its November 19th Nasdaq debut; Salesforce unveils a new portfolio of job-ready Agentforce agents and confirms Agentforce will be auto-enabled by default in Winter '27; Congress returns for a crowded lame-duck session with a December 11th funding deadline and a renewed Hegseth impeachment push, while Zelensky says the US floated NATO membership for Ukraine over a Donbas concession and Eisenkot keeps working to form an Israeli government; Ireland's homeless count tops 18,000 for the first time as the Taoiseach vows to contest the next election; Bend's Silver Rail Elementary community takes an emotional step forward as families return a month after the shooting, with a damp start to the week ahead; Manchester United sit 18th after a 4-4 draw with Aston Villa ahead of facing Liverpool on November 22nd; and the Seahawks, 5-4, head to Las Vegas to face the Raiders.",
+    "filename": "2026-11-15.mp3",
+    "size_bytes": 5434349,
+    "duration": "05:40",
+    "pubDate": "Sun, 15 Nov 2026 06:00:00 -0800",
+    "voice": "espeak-ng"
   }
 ]
