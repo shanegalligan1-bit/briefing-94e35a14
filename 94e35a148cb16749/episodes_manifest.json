@@ -488,5 +488,15 @@
     "duration": "04:36",
     "pubDate": "Sun, 15 Nov 2026 06:00:00 -0800",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Daily Briefing — Monday, November 16, 2026",
+    "description": "Anthropic nears its Nasdaq debut this Thursday, November 19th, under ticker ANT, with its $70-78 IPO already reportedly oversubscribed roughly six times over; Salesforce says Agentforce Coworker usage has soared 21x in three months past 185,000 users as Agentforce Nonprofit goes GA and a new Agentforce Sales app launches inside ChatGPT; Congress returns for a lame-duck session with a December 11th funding deadline as the Hegseth impeachment push is effectively shelved and Zelensky says the US floated NATO membership for Ukraine over a Donbas concession; Ireland's emergency homelessness spending hits €449 million as the Taoiseach faces renewed opposition pressure over housing; Central Oregon's new Deschutes County commissioners meet residents as a county districting measure appears headed for defeat; Bend sees a sunny start to the week before a wintry turn brings snow by midweek; Manchester United stay mid-table under Mauricio Pochettino ahead of facing Liverpool on November 22nd; and the Seahawks improve to 6-4 after beating the Raiders 21-13 in Las Vegas.",
+    "filename": "2026-11-16.mp3",
+    "size_bytes": 5013882,
+    "duration": "05:13",
+    "pubDate": "Mon, 16 Nov 2026 06:00:00 -0800",
+    "voice": "espeak-ng"
   }
 ]
