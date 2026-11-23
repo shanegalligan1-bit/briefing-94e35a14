@@ -558,5 +558,15 @@
     "duration": "04:12",
     "pubDate": "Sun, 22 Nov 2026 06:00:00 -0800",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Daily Briefing — Monday, November 23, 2026",
+    "description": "Anthropic officially closes its IPO after selling over a billion Class A shares at eighty-three dollars each plus a concurrent private placement, and rolls out new Claude Fable and Mythos five-point-two models; Salesforce and Microsoft's new Copilotforce tie-up lands as Agentforce Coworker usage keeps climbing twenty-one times over in three months; Trump sets a November twenty-seventh deadline for Ukraine to accept his peace plan while reportedly pushing for a full deal by January before Democrats take Congress, and a lame-duck Congress still faces a December eleventh funding deadline; Dublin City Council's appeal to raise homeless-funding above ninety percent is refused as Ireland's homeless count hits a record high; a new Deschutes County audit finds twenty-five million dollars in homelessness spending went without clear oversight, and Bend presses ahead with red-light cameras; a mild Monday in Bend gives way to rain and snow chances through Thanksgiving; Mauricio Pochettino's full Man Utd debut ends in a four-nil demolition at Anfield after an early red card; and the Seahawks sit at six and four during their bye, coming off a win over the Raiders, ahead of a Thanksgiving-week trip to the 49ers.",
+    "filename": "2026-11-23.mp3",
+    "size_bytes": 5149719,
+    "duration": "05:22",
+    "pubDate": "Mon, 23 Nov 2026 06:00:00 -0800",
+    "voice": "espeak-ng"
   }
 ]
