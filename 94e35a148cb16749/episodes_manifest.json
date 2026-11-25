@@ -578,5 +578,15 @@
     "duration": "04:17",
     "pubDate": "Tue, 24 Nov 2026 06:00:00 -0800",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-11-25",
+    "title": "Daily Briefing — Wednesday, November 25, 2026",
+    "description": "Anthropic's IPO officially closes after selling over 1.1 billion Class A shares at $83 each, on the heels of the new Claude Fable/Mythos 5.2 models; Salesforce and Microsoft unveil Copilotforce as Agentforce Coworker usage keeps climbing 21x to over 185,000 users; Trump's Thanksgiving deadline for Ukraine to accept his peace plan arrives Friday while a lame-duck Congress still faces a December 11th funding deadline, and a new poll finds 55% of US voters want the Iran war ended immediately; Ireland's HSE CEO dismissal fallout grows after revelations the Taoiseach wasn't told for 48 hours; Bend's Polar Plunge draws 500+ people as the city presses ahead with red-light cameras and Think Wild loses $16,000 in funding; a wet Thanksgiving is on tap for Bend with a 90% chance of rain; Pochettino's Man Utd sit 19th after a 4-0 loss at Anfield ahead of tonight's Champions League trip to Sporting CP; and the Seahawks sit at 6-4 off their bye, heading into a Thanksgiving-week trip to the red-hot 9-1 49ers.",
+    "filename": "2026-11-25.mp3",
+    "size_bytes": 5411361,
+    "duration": "05:38",
+    "pubDate": "Wed, 25 Nov 2026 06:00:00 -0800",
+    "voice": "espeak-ng"
   }
 ]
