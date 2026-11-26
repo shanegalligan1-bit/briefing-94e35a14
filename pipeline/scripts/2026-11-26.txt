@@ -1,0 +1,19 @@
+Good morning, Shane. Here's your daily briefing for Thursday, November twenty-sixth, twenty twenty-six.
+
+Anthropic kept up its post-IPO pace this week, launching Claude Ship, a new set of AI agents built to handle code review and approval work on GitHub. The toolkit includes two beta agents: PR Steward, which chases down failing checks, merge conflicts, and reviewer feedback on its own, and Claude Approvals, which checks incoming changes against a team's own policies and can sign off on routine ones automatically. It's rolling out to Claude Team and Enterprise customers, with Anthropic suggesting teams start the approvals agent in observation mode before trusting it to act on its own.
+
+Salesforce and Microsoft are embracing each other again, at least for now. The two companies announced Copilotforce this week, a partnership that pipes Salesforce customer data and sales workflows directly into Microsoft Copilot, letting sales reps look up deals and update their CRM without ever leaving Copilot or Teams. It's a notable thaw between two companies that have spent the past year building competing AI agents, and it lands right as Salesforce keeps touting explosive growth in its own Agentforce Coworker product.
+
+It's a big travel day across the country. AAA expects around eighty-one million Americans to travel for Thanksgiving, a slight dip from last year's record, though storms moving through parts of the US have already been snarling flights and causing delays and power outages for people trying to get home. Separately, a federal judge ruled this week that the FCC violated ABC's free speech rights in its long-running fight with the network over its broadcast licenses, a case that traces back to the suspension of Jimmy Kimmel's show last year.
+
+Back home, a few stories are developing. The Justice Minister has launched a pilot program to electronically tag up to a hundred and fifty prisoners on temporary release and people out on bail, as an alternative to custody. Horse Sport Ireland, the national governing body for equestrian sport, is expected to be liquidated, with around forty jobs lost. And the INMO says Irish hospitals hit a grim new record this year, with over a hundred and twenty-three thousand patients treated on trolleys or in other inappropriate spaces. Meanwhile, fallout continues from the HSE boardroom shake-up following CEO Anne O'Connor's dismissal.
+
+Closer to home, Central Oregon Community College says it's planning about two million dollars in cuts to its operations and staffing as it works through its budget. On a lighter note, high school basketball and wrestling seasons are tipping off across Central Oregon this week, giving local sports fans plenty to watch over the holiday weekend.
+
+As for the weather here in Bend: today is looking breezy and mild for Thanksgiving, with a chance of light rain and snow over the Cascades and some overnight fog that could slow down holiday travel. Friday turns dry and mild, with highs in the upper forties to low fifties. The weekend cools off, with highs dropping into the low forties by Sunday under partly sunny skies, before it dries out again briefly on Monday. Rain and a wintry mix return by Tuesday.
+
+Over in the Premier League world, Mauricio Pochettino's Manchester United side got a little bit of good news for once: United fought back from two goals down to draw two-all at Sporting CP in the Champions League on Wednesday, with Youri Tielemans and Bruno Fernandes scoring in quick succession early in the second half to rescue a point in Lisbon.
+
+And the Seahawks are coming off their bye week at six and four, having beaten the Raiders twenty-one to thirteen before the break. They're heading into Thanksgiving week with a tough assignment: a Sunday trip to face the red-hot San Francisco 49ers, who sit at nine and one, with kickoff set for four twenty-five Eastern on FOX.
+
+That's your briefing. Have a good Thanksgiving, Shane.
