@@ -598,5 +598,15 @@
     "duration": "04:14",
     "pubDate": "Thu, 26 Nov 2026 06:00:00 -0800",
     "voice": "kokoro-af_heart"
+  },
+  {
+    "date": "2026-11-27",
+    "title": "Daily Briefing — Friday, November 27, 2026",
+    "description": "Anthropic's IPO officially closes with over 1.1 billion Class A shares sold at $83, fresh off the launch of Claude Fable and Mythos 5.2; Salesforce and Microsoft's new Copilotforce brings Salesforce data into Microsoft Copilot as Agentforce Coworker tops 185,000 users; today is Trump's deadline for Ukraine to accept his peace plan, as the country digs out from a massive Thanksgiving storm that postponed the Macy's parade for the first time ever and record Black Friday sales are expected; Ireland's HSE CEO sacking saga deepens as the Taoiseach demands a 'comprehensive explanation' from the board; Redmond Airport reports smooth Thanksgiving travel as the Sunriver Nature Center closes for its first major remodel in 50 years; a cloudy, rainy Friday gives way to a drier Saturday in Bend; Pochettino is still winless after a wild 2-2 draw at Sporting CP; and the 6-4 Seahawks head into a huge NFC West showdown Sunday at the 9-1 49ers.",
+    "filename": "2026-11-27.mp3",
+    "size_bytes": 5744893,
+    "duration": "05:59",
+    "pubDate": "Fri, 27 Nov 2026 06:00:00 -0800",
+    "voice": "espeak-ng"
   }
 ]
